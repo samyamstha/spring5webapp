@@ -1,4 +1,4 @@
-package com.samyam.springframework.spring5webapp.DevBootstrap;
+package com.samyam.springframework.spring5webapp.bootstrap;
 
 import com.samyam.springframework.spring5webapp.modal.Author;
 import com.samyam.springframework.spring5webapp.modal.Book;
