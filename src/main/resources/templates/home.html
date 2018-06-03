@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="UTF-8">
     <title>Home</title>
 </head>
 <body>
 Welcome User!
+
+<a href="books.html" th:href="@{/books}">View Books</a>
+<a href="authors.html" th:href="@{/authors}">View Authors</a>
+
 </body>
 </html>
